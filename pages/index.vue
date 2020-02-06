@@ -16,6 +16,9 @@ export default {
 </script>
 
 <style>
+body {
+  background: #e8f8ff;
+}
 .container {
   margin: 0 auto;
   min-height: 100vh;
