@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h1>Lasse D. Spilling</h1>
-    <a href="vg.no">Read newspaper</a>
+    <a href="https://vg.no">Read newspaper</a>
   </div>
 </template>
 
