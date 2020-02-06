@@ -19,6 +19,9 @@ export default {
 body {
   background: #e8f8ff;
 }
+h1 {
+  text-transform: uppercase;
+}
 .container {
   margin: 0 auto;
   min-height: 100vh;
