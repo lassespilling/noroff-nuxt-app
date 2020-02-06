@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h1>Lasse D. Spilling</h1>
-    <h2>Test subtitle.</h2>
+    <a href="vg.no">Read newspaper</a>
   </div>
 </template>
 
